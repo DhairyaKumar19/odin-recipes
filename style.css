@@ -1,5 +1,6 @@
 body{
     background-color:#e5e5e5 ;
+    font-family:Verdana,sans-serif;
 }
 h1{
     background-color: #edf2f4;
@@ -7,6 +8,12 @@ h1{
     margin-bottom: 5px;
     text-align: center;
     color: black;
+}
+.b{
+    background-color: #e5e5e5;
+    font-size: 28px;
+    padding: 8px;
+    margin-top: -13px;
 }
 a:link{
     color: rgb(199, 53, 53);
@@ -25,6 +32,9 @@ a:link{
     padding: 50px;
     width: 500px;
 }
-ul{
+.ulist{
     list-style: none;
+}
+.imgs{
+    border: 2px solid black;
 }
